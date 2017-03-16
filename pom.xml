@@ -28,7 +28,7 @@
     <groupId>org.ballerinalang</groupId>
     <artifactId>docerina</artifactId>
     <packaging>jar</packaging>
-    <version>0.8.18-SNAPSHOT</version>
+    <version>0.8.19-SNAPSHOT</version>
 
     <name>WSO2 Docerina - Ballerina Documentation Generation</name>
     <url>http://wso2.org</url>
