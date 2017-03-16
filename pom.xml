@@ -261,7 +261,7 @@
     </build>
 
     <properties>
-        <ballerina.version>0.8.18</ballerina.version>
+        <ballerina.version>0.8.20</ballerina.version>
 
         <!-- Maven plugins -->
         <!--Bundle Plugin - Overridden from parent due to a bug in latest version related to capability providers-->
